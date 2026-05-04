@@ -24,7 +24,7 @@ Time Restorer provides AI-powered photo restoration services, including coloriza
 Time Restorer shall not be liable for any indirect, incidental, or consequential damages arising from the use of the service.
 
 ## 6. Governing Law
-These terms are governed by the laws of [Your Country/Region].
+These terms are governed by the laws of the People's Republic of China.
 
 ## 7. Contact
-For any inquiries regarding these terms, please contact: [Your Support Email]
+For any inquiries regarding these terms, please contact: guoxinrui1112@gmail.com

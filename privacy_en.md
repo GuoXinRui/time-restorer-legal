@@ -27,8 +27,8 @@ We share data with the following essential providers:
 - **Ad Networks**: AdMob or AppLovin may collect device IDs for ad delivery.
 
 ## 4. Your Rights and Choices
-- **Data Deletion**: You may request the deletion of your account data by contacting us at [Your Support Email].
+- **Data Deletion**: You may request the deletion of your account data by contacting us at guoxinrui1112@gmail.com.
 - **Opt-out**: You can opt-out of personalized ads through your device settings.
 
 ## 5. Contact Us
-If you have any questions about this Privacy Policy, please contact us at: [Your Support Email]
+If you have any questions about this Privacy Policy, please contact us at: guoxinrui1112@gmail.com
